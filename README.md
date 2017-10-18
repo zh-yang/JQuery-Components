@@ -1,2 +1,2 @@
 # JQuery-Components
-JQuery常用 组件
+封装一些JQuery常用插件
